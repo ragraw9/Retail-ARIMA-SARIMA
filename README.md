@@ -10,12 +10,12 @@ This project forecasts retail sales for 10 stores using ARIMA and SARIMA models.
    - **SARIMA RMSE**: Ranged from 562 to 7136.
    - SARIMA consistently outperformed ARIMA, except for Store 5.
 
-## Business Insights
+## Insights
 1. **Accurate Forecasting**: SARIMA models provide better forecasts, enhancing inventory management and reducing stockouts.
 2. **Strategic Planning**: Improved demand predictions help optimize promotions, resource allocation, and operational efficiency.
 3. **Store-Specific Insights**: Tailored strategies based on store-specific forecasts.
 
-## Recommendation
+## Conclusion
 Adopt SARIMA models for their superior accuracy in capturing seasonal trends, supporting better business decisions and strategic planning.
 
 ## Visual Insights
